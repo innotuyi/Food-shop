@@ -26,7 +26,7 @@ SECRET_KEY = '02%n&4@o1-yyzk1-b84)aq4twl8#=4_63hysjxdvh*)1c#in9z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','https://foodsho.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','foodsho.herokuapp.com']
 
 # Application definition
 
